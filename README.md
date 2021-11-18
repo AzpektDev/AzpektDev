@@ -2,7 +2,7 @@
 
 * ⚡ I'm a Full-Stack Developer from **Poland**
 * 🔭 I’m currently working on [Corion Discord Bot](https://corion.com.pl)
-* 💻 My favorite languages are JavaScript & c#
+* 💻 My favorite languages are JavaScript, c# and LUA.
 
 ### Things I code with
 ![React](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white)
