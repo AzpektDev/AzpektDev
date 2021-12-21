@@ -33,6 +33,7 @@
 
 ### My main projects
 * [Corion Discord Bot](https://corion.com.pl)
+* [Discord-timeouts npm package](https://github.com/AzpektDev/discord-timeouts)
 * *secret*
 
 ### Where you can find me
