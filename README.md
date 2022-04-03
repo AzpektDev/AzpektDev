@@ -1,7 +1,7 @@
 ## 👋 Hey, I am Azpekt!
 
 * ⚡ I'm a Full-Stack Developer from **Poland**
-* 🔭 I’m currently working on [Corion Discord Bot](https://corion.com.pl)
+* 🔭 I’m currently working on [Corion Discord Bot](https://corion.pro)
 * 💻 My favorite languages are JavaScript, c# and LUA.
 
 ### Things I code with
@@ -32,7 +32,7 @@
 ![Nodejs](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)
 
 ### My main projects
-* [Corion Discord Bot](https://corion.com.pl)
+* [Corion Discord Bot](https://corion.pro)
 * *secret*
 
 ### Where you can find me
