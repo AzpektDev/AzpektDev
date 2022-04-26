@@ -37,4 +37,4 @@
 
 ### My hatelist
 * PHP
-* Android - It just doesn't wor
+* Android - It just doesn't work
