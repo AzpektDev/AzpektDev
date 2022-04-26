@@ -30,7 +30,7 @@
 
 ### My main projects
 * [Corion Discord Bot](https://corion.pro)
-* [HypeChat][https://github.com/HypeChatTeam]
+* [HypeChat](https://github.com/HypeChatTeam)
 
 ### Where you can find me
 <p><a href="https://github.com/azpektdev" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/AzpektDev" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a></a>
