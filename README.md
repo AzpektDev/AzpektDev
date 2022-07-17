@@ -1,7 +1,7 @@
 ## 👋 Hey, I am Azpekt!
 
 * ⚡ I'm a Full-Stack Developer from **Poland**
-* 🔭 I’m currently working on [HypeChat](https://github.com/HypeChatTeam)
+* 🔭 I’m currently working on some various projects.
 * 💻 My favorite languages are JavaScript, C++ and Python.
 
 ### Things I code with
