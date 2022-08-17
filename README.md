@@ -1,8 +1,11 @@
 ## 👋 Hey, I am Azpekt!
 
-* ⚡ I'm a Full-Stack Developer from **Poland**
+* ⚡ I'm a Full-Stack Developer from **Poland**.
 * 🔭 I’m currently working on some various projects.
+* 🍎 I love Apple.
 * 💻 My favorite languages are JavaScript, C++ and Python.
+
+„If you hate Apple, you are just poor.”
 
 ### Things I code with
 ![React](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white)
