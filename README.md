@@ -2,7 +2,7 @@
 
 * ⚡ I'm a Full-Stack Developer from **Poland**.
 * 🔭 I’m currently working on some various projects.
-* 🍎 I love Apple.
+* 🍎 I'm a big fan of Apple.
 * 💻 My favorite languages are JavaScript, C++ and Python.
 
 „If you hate Apple, you are just poor.”
@@ -31,9 +31,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)
 
-### My main projects
-* [HypeChat](https://github.com/HypeChatTeam)
-* [Corion Discord Bot](https://corion.pro) - EOS comming soon
+[Corion Discord Bot](https://corion.pro) - EOS comming soon
 
 ### Discord
 [![Discord Presence](https://lanyard.cnrad.dev/api/831782074921910273)](https://discord.com/users/831782074921910273)
