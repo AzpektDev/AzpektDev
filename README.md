@@ -1,7 +1,7 @@
 ## 👋 Hey, I am Azpekt!
 
 * ⚡ I'm a Full-Stack Developer from **Poland**.
-* 🔭 I’m currently working on some various projects.
+* 🔭 I’m currently working on Upldr. - private image uploader.
 * 🍎 I'm a big fan of Apple.
 * 💻 My favorite languages are JavaScript, C++ and Python.
 
