@@ -9,7 +9,7 @@
 
 ### My projects
 * [Upldr.](https://upldr.pl) - starting 3rd oct
-* [Corion Discord Bot](https://corion.pro) - EOS comming soon
+* [Corion Discord Bot](https://corion.pro) - EOS
 
 ### Discord
 [![Discord Presence](https://lanyard.cnrad.dev/api/831782074921910273)](https://discord.com/users/831782074921910273)
