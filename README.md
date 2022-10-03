@@ -8,7 +8,7 @@
 „If you hate Apple, you are just poor.”
 
 ### My projects
-* [Upldr.](https://upldr.pl) - starting 3rd oct
+* [Upldr.](https://upldr.pl)
 * [Corion Discord Bot](https://corion.pro) - EOS
 
 ### Discord
