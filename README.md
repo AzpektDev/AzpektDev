@@ -3,7 +3,7 @@
 * ⚡ I'm a Full-Stack Developer from **Poland**.
 * 🔭 I’m currently working on Upldr. - private image uploader.
 * 🍎 I'm a big fan of Apple.
-* 💻 My favorite languages are JavaScript, C++ and Python.
+* 💻 My favorite languages are TypeScript, C++ and Python.
 
 „If you hate Apple, you are just poor.”
 
