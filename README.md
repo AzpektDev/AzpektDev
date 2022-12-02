@@ -1,10 +1,5 @@
-<h3>Hey, I am Azpekt! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"></h3>
+<h1>Hey, I am Azpekt! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"></h3>
 
-* ⚡ I'm a Full-Stack Developer from **Poland**.
-* 🔭 I’m currently working on Upldr. - private image uploader.
-* 💻 My favorite language is TypeScript.
-
-<hr>
 <h4>Languages I use</h4>
 <div>
   <img src="https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white&labelColor=D9BA05">
