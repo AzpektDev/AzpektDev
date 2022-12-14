@@ -29,9 +29,10 @@
 </div>
 <h4>Design</h4>
 <div>
+  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-000000.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white&labelColor=00005B">
+  <img src="https://img.shields.io/badge/Adobe%20After%20Effects-000000.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white&labelColor=9999FF">
   <img src="https://img.shields.io/badge/adobe%20photoshop-000000.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white&labelColor=31A8FF">
   <img src="https://img.shields.io/badge/adobe%20illustrator-000000.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white&labelColor=FF9A00">
-  <img src="https://img.shields.io/badge/Adobe%20After%20Effects-000000.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white&labelColor=9999FF">
   <img src="https://img.shields.io/badge/figma-000000.svg?style=for-the-badge&logo=figma&logoColor=white&labelColor=9D56F7">
 </div>
 <h4>Version Control</h4>
