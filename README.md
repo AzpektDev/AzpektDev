@@ -56,7 +56,7 @@
 <h3>Contact</h3>
 
 * Discord: Azpekt#0001
-* Email: azpekt@upldr.pl
+* Email: me@azpekt.dev
 * Website: [azpekt.dev](https://azpekt.dev/)
 
 <hr>
