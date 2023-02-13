@@ -71,7 +71,7 @@
   
   [![Discord Presence](https://lanyard.cnrad.dev/api/831782074921910273)](https://discord.com/users/831782074921910273)
 
-  Spotify
+  Spotify (awful taste ikik)
   
   ![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=b1yymkxidsgzw1155i8fxsa69)
 </div>
