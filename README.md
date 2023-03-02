@@ -1,7 +1,7 @@
 <h2 align="center">Hey there, I’m Azpekt <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"></h2>
 
 <div align="center">
-  I'm a <strong>Developer</strong> who is passionate about computer science. Currently Studying computer science in <a href="https://technischools.com/">Techni Schools</a>.
+  I'm a <strong>Developer</strong> who is passionate about computer science. Currently studying computer science at <a href="https://technischools.com/">Techni Schools</a>.
   <br>
 <br>
   • 🔭 I’m currently working on Upldr. - private image uploader.<br>
