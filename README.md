@@ -4,7 +4,7 @@
   I'm a <strong>Developer</strong> who is passionate about computer science. Currently studying computer science at <a href="https://technischools.com/">Techni Schools</a>.
   <br>
 <br>
-  • 🔭 I’m currently working on <a href="https://upldr.pl">Upldr.</a> - private image uploader.<br>
+  • 🔭 I’m currently working on <a href="https://vervealliance.com">Verve Alliance</a><br>
   • 💻 My favorite languages are TypeScript and C++.<br>
   • 🔥 I like working with Express, React and Vue.<br>
 </div>
