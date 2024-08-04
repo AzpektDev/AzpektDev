@@ -1,4 +1,4 @@
 hi there,
 i like to code.
 
-working @ [moveit](https://github.com/moveitapp)
+lead dev @ [moveit](https://github.com/moveitapp)
