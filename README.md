@@ -1,4 +1,4 @@
 hi there,
 i like to code.
 
-lead dev @ [moveit](https://github.com/moveitapp)
+developing public transport API @ [moveit](https://github.com/moveitapp)
